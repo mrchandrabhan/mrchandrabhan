@@ -18,13 +18,13 @@ M.S. Computer Science, Clarkson University ('26) · Open to DevOps, SRE, Cloud a
 
 ## 🚀 Featured projects & active builds
 
-**[Nexus AI — Enterprise Intelligence & Automation](https://github.com/mrchandrabhan/Nexus-AI)** · *In progress*
-Enterprise AI assistant project focused on grounded knowledge retrieval, controlled business-tool integrations, server-side authorization, and human-approved workflows. Day 1 frontend/backend scaffold, PostgreSQL configuration, Docker Compose, health endpoints, and backend smoke tests are committed; GitHub Actions passes backend tests and frontend production builds; local Docker verification is pending.
-`Python` `FastAPI` `Next.js` `PostgreSQL` `pgvector`
+**[Nexus AI — Enterprise AI Intelligence & Governance](https://github.com/mrchandrabhan/Nexus-AI)** · *In progress*
+Enterprise workspace that reuses the existing Agentic RAG engine through a FastAPI adapter. Nexus proxies document uploads and grounded questions, then displays page-level citations and the agent trace. Next: identity, workspace RBAC, scoped retrieval, controlled tools, human approvals and audit events.
+`Python` `FastAPI` `Next.js` `LangGraph` `FAISS` `AI Governance`
 
 **[Apex Exchange — Simulated Digital Asset Exchange](https://github.com/mrchandrabhan/Apex-exchange)** · *In progress · simulation only*
-Exchange-engineering project focused on deterministic price-time matching, simulated balances, double-entry ledger integrity, real-time market data, concurrency testing, and recovery. Day 1 frontend/backend scaffold, PostgreSQL configuration, Docker Compose, health endpoints, and synthetic market fixtures are committed; CI is being verified.
-`Python` `FastAPI` `PostgreSQL` `WebSockets` `Distributed Systems`
+Deterministic in-memory matching engine with Decimal validation, price-time priority, maker-price execution, partial fills and cancellation. FastAPI exposes order, book and trade endpoints; the Next.js dashboard supports simulated order entry and book/trade views. 23 backend tests pass, including property-based matching invariants. Balances, ledger and durable persistence are next.
+`Python` `FastAPI` `Decimal` `Hypothesis` `Matching Engine` `Systems Engineering`
 
 **[agentic-rag-docqa](https://github.com/mrchandrabhan/agentic-rag-docqa)** · [Live demo](https://agentic-rag-docqa-dwvv.onrender.com)
 Agentic RAG document Q&A with page-level citations and a labeled evaluation suite that runs in CI.
