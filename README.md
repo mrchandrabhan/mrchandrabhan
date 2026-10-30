@@ -19,7 +19,7 @@ M.S. Computer Science, Clarkson University ('26) · Open to DevOps, SRE, Cloud a
 ## 🚀 Featured projects & active builds
 
 **[Nexus AI — Enterprise Intelligence & Automation](https://github.com/mrchandrabhan/Nexus-AI)** · *In progress*
-Enterprise AI assistant project focused on grounded knowledge retrieval, controlled business-tool integrations, server-side authorization, and human-approved workflows. Day 1 frontend/backend scaffold, PostgreSQL configuration, Docker Compose, health endpoints, and backend smoke tests are committed; CI is being verified.
+Enterprise AI assistant project focused on grounded knowledge retrieval, controlled business-tool integrations, server-side authorization, and human-approved workflows. Day 1 frontend/backend scaffold, PostgreSQL configuration, Docker Compose, health endpoints, and backend smoke tests are committed; GitHub Actions passes backend tests and frontend production builds; local Docker verification is pending.
 `Python` `FastAPI` `Next.js` `PostgreSQL` `pgvector`
 
 **[Apex Exchange — Simulated Digital Asset Exchange](https://github.com/mrchandrabhan/Apex-exchange)** · *In progress · simulation only*
