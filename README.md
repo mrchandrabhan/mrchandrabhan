@@ -30,6 +30,13 @@ Exchange-engineering project focused on deterministic price-time matching, simul
 Agentic RAG document Q&A with page-level citations and a labeled evaluation suite that runs in CI.
 `Python` `LangGraph` `FAISS` `ChromaDB` `Claude` `Mistral`
 
+**[cu-pantry-smart-locker-system](https://github.com/mrchandrabhan/cu-pantry-smart-locker-system)**
+Smart-locker pantry management system for Clarkson University, with SSO, inventory tracking and temperature compliance.
+`TypeScript` `React 19` `Vite` `Django REST Framework` `PostgreSQL`
+
+**[saayam-for-all/devsecops](https://github.com/saayam-for-all/devsecops)** · Volunteer
+DevSecOps contributor for the Saayam For All nonprofit since Aug 2026.
+
 ## 🧰 Tech stack
 
 **Cloud & IaC**
