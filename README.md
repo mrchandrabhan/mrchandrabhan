@@ -16,18 +16,19 @@ M.S. Computer Science, Clarkson University ('26) · Open to DevOps, SRE, Cloud a
 - **12 containerized services** running on Docker and Kubernetes, plus a Kafka analytics data pipeline
 - **Azure infrastructure as code** with Terraform and Ansible, monitored through Azure Monitor alerting
 
-## 🚀 Featured projects
+## 🚀 Featured projects & active builds
+
+**[Nexus AI — Enterprise Intelligence & Automation](https://github.com/mrchandrabhan/Nexus-AI)** · *In progress*
+Enterprise AI assistant project focused on grounded knowledge retrieval, controlled business-tool integrations, server-side authorization, and human-approved workflows. Architecture and implementation roadmap are published; application implementation is underway.
+`Python` `FastAPI` `Next.js` `PostgreSQL` `pgvector`
+
+**[Apex Exchange — Simulated Digital Asset Exchange](https://github.com/mrchandrabhan/Apex-exchange)** · *In progress · simulation only*
+Exchange-engineering project focused on deterministic price-time matching, simulated balances, double-entry ledger integrity, real-time market data, concurrency testing, and recovery. Architecture and implementation roadmap are published; application implementation is underway.
+`Python` `FastAPI` `PostgreSQL` `WebSockets` `Distributed Systems`
 
 **[agentic-rag-docqa](https://github.com/mrchandrabhan/agentic-rag-docqa)** · [Live demo](https://agentic-rag-docqa-dwvv.onrender.com)
 Agentic RAG document Q&A with page-level citations and a labeled evaluation suite that runs in CI.
 `Python` `LangGraph` `FAISS` `ChromaDB` `Claude` `Mistral`
-
-**[cu-pantry-smart-locker-system](https://github.com/mrchandrabhan/cu-pantry-smart-locker-system)**
-Smart-locker pantry management system for Clarkson University, with SSO, inventory tracking and temperature compliance.
-`TypeScript` `React 19` `Vite` `Django REST Framework` `PostgreSQL`
-
-**[saayam-for-all/devsecops](https://github.com/saayam-for-all/devsecops)** · Volunteer
-DevSecOps contributor for the Saayam For All nonprofit since Aug 2026.
 
 ## 🧰 Tech stack
 
