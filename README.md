@@ -19,11 +19,11 @@ M.S. Computer Science, Clarkson University ('26) · Open to DevOps, SRE, Cloud a
 ## 🚀 Featured projects & active builds
 
 **[Nexus AI — Enterprise Intelligence & Automation](https://github.com/mrchandrabhan/Nexus-AI)** · *In progress*
-Enterprise AI assistant project focused on grounded knowledge retrieval, controlled business-tool integrations, server-side authorization, and human-approved workflows. Architecture and implementation roadmap are published; application implementation is underway.
+Enterprise AI assistant project focused on grounded knowledge retrieval, controlled business-tool integrations, server-side authorization, and human-approved workflows. Day 1 frontend/backend scaffold, PostgreSQL configuration, Docker Compose, health endpoints, and backend smoke tests are committed; CI is being verified.
 `Python` `FastAPI` `Next.js` `PostgreSQL` `pgvector`
 
 **[Apex Exchange — Simulated Digital Asset Exchange](https://github.com/mrchandrabhan/Apex-exchange)** · *In progress · simulation only*
-Exchange-engineering project focused on deterministic price-time matching, simulated balances, double-entry ledger integrity, real-time market data, concurrency testing, and recovery. Architecture and implementation roadmap are published; application implementation is underway.
+Exchange-engineering project focused on deterministic price-time matching, simulated balances, double-entry ledger integrity, real-time market data, concurrency testing, and recovery. Day 1 frontend/backend scaffold, PostgreSQL configuration, Docker Compose, health endpoints, and synthetic market fixtures are committed; CI is being verified.
 `Python` `FastAPI` `PostgreSQL` `WebSockets` `Distributed Systems`
 
 **[agentic-rag-docqa](https://github.com/mrchandrabhan/agentic-rag-docqa)** · [Live demo](https://agentic-rag-docqa-dwvv.onrender.com)
